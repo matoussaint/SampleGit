@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author epoell
+ *
+ */
+module sampleProject {
+}
